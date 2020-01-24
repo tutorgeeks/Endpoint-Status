@@ -12,4 +12,4 @@ for i in websites:
  except:
  print (Fore.RED+"Something went wrong:"+" "+i)
 fh.close()
-print "<----Scan completed---->
+print "<----Scan completed---->"
